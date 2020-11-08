@@ -28,7 +28,7 @@
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <img src="<img src="{{url('img/corona.png')}}" height="100">{{url('img/1.jpg')}}" class="d-block w-100" alt="..." height="500">
+                    <img src="{{url('img/1.jpg')}}" class="d-block w-100" alt="..." height="500">
                     <div class="carousel-caption d-none d-md-block">
                         <h1> &#x2655;</h1>
                         <p><h4>Sienteté como en casa</h4></p> 
